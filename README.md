@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**xuboming8/xuboming8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**xuboming8/xuboming8** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
